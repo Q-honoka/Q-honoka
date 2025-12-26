@@ -21,6 +21,6 @@
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)
 
 ## 📈 GitHub Stats
-![Q-honoka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Q-honoka&show_icons=true&theme=radical)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Q-honoka&theme=radical)
 
 ## 🎮 Projects
