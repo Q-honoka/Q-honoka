@@ -1,7 +1,7 @@
-# Hi there, I'm [Q-honoka] 👋
+# Q-honoka Profile👋
 
-ゲームプログラマーを目指しています [ゲーム系の専門学校2年生] です！
-「世界中のたくさんの人の心を動かすこと」　「クリエーターも楽しめるゲームを開発すること」を目標に日々勉強しています！
+ゲームプログラマーを目指しています [ゲーム系の専門学校3年生] です
+将来はリードプログラマーになって「クリエーターも楽しめるゲームを開発すること」を目標に勉強しています
 
 ## 🥒 自己紹介
 - 💻 使える言語: [C, C++, C#]
@@ -16,18 +16,39 @@
 
 ### Engines & Tools
 ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
-![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)
 
-## 📈 GitHub Stats
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Q-honoka&theme=radical)
-
 ## 🎮 Projects
-
-- [BlackNector](https://github.com/Q-honoka/P_BlackNector.git)
-- [ウグイスの花見泥棒](https://github.com/Q-honoka/GAIRA_GAME_JAM.git)
-- [Sheep Walk](https://github.com/Q-honoka/SheepWalk.git)
-- [シーラブ](https://github.com/Q-honoka/SeaLove.git)
+### 個人制作
 - [Space Shooting](https://github.com/Q-honoka/SpaceShooting.git)
+  - DxLib / C++
+  - 縦スクロールシューティング
+  - 1年次に当たり判定の学習を目的に作成しました
 - [三目並べ](https://github.com/Q-honoka/Tic-Tac-Toe.git)
+  - DxLib / C++
+  - テーブルゲーム
+  - C++の基礎力向上を目的に作成しました
+- [神経衰弱](https://github.com/Q-honoka/MemoryGame.git)
+  - DxLib / C++
+  - トランプゲーム
+  - CSVファイルの読み込みの学習を目的に作成しました
+
+### チーム制作
+- [BlackNector](https://github.com/Q-honoka/P_BlackNector.git)
+  - Unity / C#
+  - 横スクロールパズルアクション
+  - 担当箇所：暗闇判定, ギミック
+- [ウグイスの花見泥棒](https://github.com/Q-honoka/GAIRA_GAME_JAM.git)
+  - Unity / C#
+  - 横スクロールアクション
+  - 担当箇所：プレイヤー制御, ギミック
+- [Sheep Walk](https://github.com/Q-honoka/SheepWalk.git)
+  - Unity / C#
+  - 3D回転パズルゲーム
+  - 担当箇所：プログラムすべて
+- [シーラブ](https://github.com/Q-honoka/SeaLove.git)
+  - Unity / C#
+  - 3Dアクション
+  - 担当箇所：Joy-Con対応, ギミック
