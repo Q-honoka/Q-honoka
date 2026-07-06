@@ -5,8 +5,8 @@
 
 ## 🥒 自己紹介
 - 💻 使える言語: [C, C++, C#]
-- ✏️ 使えるツール: [Unity, Visual Studio 2022, GitHub, Sourcetree]
-- 🚶 趣味: [散歩, ゲーム, 空想, プログラミング, 難読漢字を調べること, モノ作り全般, 音楽]
+- ✏️ 使えるツール: [Unity, Visual Studio, Sourcetree]
+- 🚶 趣味: [散歩, ゲーム, プログラミング, モノ作り全般, 音楽]
 
 ## 🛠 Skills
 ### Languages
