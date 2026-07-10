@@ -36,7 +36,7 @@
   - CSVファイルの読み込みの学習を目的に作成しました
 
 ### チーム制作
-- [BlackNector](https://github.com/Q-honoka/P_BlackNector.git)
+- [BlackNector](https://github.com/Q-honoka/BlackNector_public.git)
   - Unity / C#
   - 横スクロールパズルアクション
   - 担当箇所：暗闇判定, ギミック
