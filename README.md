@@ -48,7 +48,7 @@
   - Unity / C#
   - 3D回転パズルゲーム
   - 担当箇所：プログラムすべて
-- [シーラブ](https://github.com/Q-honoka/SeaLove.git)
+- [シーラブ](https://github.com/Q-honoka/SeaLove_public.git)
   - Unity / C#
   - 3Dアクション
   - 担当箇所：Joy-Con対応, ギミック
