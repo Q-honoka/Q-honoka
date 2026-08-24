@@ -34,6 +34,10 @@
   - DxLib / C++
   - トランプゲーム
   - CSVファイルの読み込みの学習を目的に作成しました
+- [ブロック崩し](https://github.com/Q-honoka/BlockBreaker.git)
+  - DxLib / C++
+  - アクションゲーム
+  - シーン遷移アニメーションの学習を目的に作成しました
 
 ### チーム制作
 - [BlackNector](https://github.com/Q-honoka/BlackNector_public.git)
